@@ -1,0 +1,12 @@
+# Python virtual environment
+venv/
+
+# Python cache files
+__pycache__/
+
+# User-uploaded files (should not be in source control)
+uploads/
+processed/
+
+# Any local cloaked images from testing
+*_cloaked.png

@@ -11,7 +11,3 @@ services:
         value: 3.11.9
       - key: TF_ENABLE_ONEDNN_OPTS
         value: 0
-    disk:
-      name: fawkes-data
-      mountPath: /opt/render/.cache
-      sizeGB: 5
